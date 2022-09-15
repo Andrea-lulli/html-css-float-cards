@@ -14,7 +14,7 @@ header{
 }
 
 .titolo {
-    color: rgb(148, 18, 81);
+    color: rgb(238, 65, 112);
     margin-top: 20px; 
     margin-bottom: 20px; 
 }
@@ -33,6 +33,7 @@ header{
     background-color: black;
     color: white;
     line-height: 22px;
+    box-shadow: -1px 0px 5px 2px #9E9E9E;
 }
 
 .card img{
@@ -46,5 +47,13 @@ header{
 }
 .box{
     margin: 30px 0px;
+}
+
+.professione{
+    color: lightgray;
+}
+
+.nome{
+    font-weight: bold;
 }
 
