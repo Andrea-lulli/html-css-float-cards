@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 70%;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+    
+    
+       
+}
+
+.titolo {
+    color: rgb(148, 18, 81);
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+.card {
+    background-color: black;
+    float: left;
+    width: calc(100% / 3);
+}
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
