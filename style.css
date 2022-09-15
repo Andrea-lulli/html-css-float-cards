@@ -7,11 +7,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Heebo&family=Inter&family=Kanit:ital@1&family=Ubuntu&display=swap') url('https://fonts.googleapis.com/css2?family=Heebo&family=Inter&family=Ubuntu&display=swap');
 
-p{
+.testo {
     color: rgb(105, 99, 99);
     font-weight: bold;
     font-size: 14px;
 }
+
 body{
     width: 70%;
     margin: auto;
@@ -53,6 +54,7 @@ header{
 .mail{
     color: rgb(106, 191, 225);
 }
+
 .box{
     margin: 30px 0px;
 }
