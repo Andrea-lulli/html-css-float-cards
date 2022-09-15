@@ -2,8 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Kanit', sans-serif
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Inter&family=Kanit:ital@1&family=Ubuntu&display=swap') url('https://fonts.googleapis.com/css2?family=Heebo&family=Inter&family=Ubuntu&display=swap');
+
+p{
+    color: rgb(105, 99, 99);
+    font-weight: bold;
+    font-size: 14px;
+}
 body{
     width: 70%;
     margin: auto;
